@@ -1,4 +1,4 @@
-# SeismoPy
+# SDEE
 A Python Package for Structural Dynamics & Earthquake Engineering
 
 ## Installation
