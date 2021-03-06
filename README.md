@@ -5,7 +5,7 @@ A Python Package for Structural Dynamics & Earthquake Engineering
 ```pip install sdee```
 
 ## How to use it?
-Open terminal and type sdee...
+Open terminal and type ```sdee```.
 
 ## License
 
