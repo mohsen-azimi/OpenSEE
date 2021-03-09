@@ -2,9 +2,7 @@
 An Open-source Python Package for Structural & Earthquake Engineering.
 
 ## Installation
-```pip install opensee
-
-```
+```pip install opensee```
 
 ## How to use it?
 Open terminal and type opensee.
