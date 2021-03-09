@@ -1,0 +1,3 @@
+[console_scripts]
+opensee = testfunction.__main__:main
+

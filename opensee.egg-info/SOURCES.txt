@@ -1,0 +1,10 @@
+MANIFEST.in
+README.md
+setup.py
+opensee.egg-info/PKG-INFO
+opensee.egg-info/SOURCES.txt
+opensee.egg-info/dependency_links.txt
+opensee.egg-info/entry_points.txt
+opensee.egg-info/top_level.txt
+testfunction/__init__.py
+testfunction/__main__.py
