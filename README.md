@@ -9,7 +9,7 @@ An Open-source Python Package for Structural & Earthquake Engineering.
 ## How to use it?
 Open terminal and type opensee.
 
-```Under Cinstruction!```
+```Under development!```
 
 ## License
 
