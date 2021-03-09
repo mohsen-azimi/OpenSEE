@@ -8,7 +8,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 # This call to setup() does all the work
 setuptools.setup(
    name='opensee',
-   version='0.0.1',
+   version='0.0.2',
    author='Mohsen Azimi',
    author_email='mohsen.azimi@ubc.ca',
    license='MIT',
@@ -25,5 +25,10 @@ setuptools.setup(
    include_package_data=True,
    install_requires=[],
    python_requires='>=3.8',
+   entry_points={
+        "console_scripts": [
+            "opensee=testfunction.__main__:main",
+        ]
+    },
 
 )

@@ -1,6 +1,7 @@
-MANIFEST.in
 README.md
 setup.py
+ground_motions/__init__.py
+ground_motions/read_peer.py
 opensee.egg-info/PKG-INFO
 opensee.egg-info/SOURCES.txt
 opensee.egg-info/dependency_links.txt

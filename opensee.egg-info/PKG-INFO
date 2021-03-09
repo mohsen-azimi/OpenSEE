@@ -1,29 +1,30 @@
 Metadata-Version: 2.1
 Name: opensee
-Version: 0.0.1
-Summary: An Open-source Python Package for Structural & Earthquake Engineering
+Version: 0.0.2
+Summary: An Open-source Package for Structural & Earthquake Engineering
 Home-page: https://github.com/mohsen-azimi/OpenSEE
 Author: Mohsen Azimi
 Author-email: mohsen.azimi@ubc.ca
 License: MIT
 Description: # OpenSEE
-        An Open-source Python Package for Structural & Earthquake Engineering
+        An Open-source Python Package for Structural & Earthquake Engineering.
         
         ## Installation
         ```pip install opensee```
         
         ## How to use it?
-        Open terminal and type ```opensee```
+        Open terminal and type opensee.
         
-        ```under developement!```
+        ```Under development!```
         
         ## License
         
-        © 2021 Mohsen Azimi
+        © 2021 Mohsen Azimi, Armin Dadras
         
         This repository is licensed under the MIT license. See LICENSE for details.
+        
 Platform: UNKNOWN
-Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
 Requires-Python: >=3.8
