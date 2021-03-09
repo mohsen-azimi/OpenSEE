@@ -11,6 +11,6 @@ Open terminal and type opensee.
 
 ## License
 
-© 2021 Mohsen Azimi
+© 2021 Mohsen Azimi, Armin Dadras
 
 This repository is licensed under the MIT license. See LICENSE for details.
